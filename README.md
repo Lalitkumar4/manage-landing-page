@@ -1,4 +1,4 @@
-# manage-landing-page
+# Manage Landing Page
 
 <div align='center'>
   <img src="https://user-images.githubusercontent.com/64465383/229330607-318fe7f5-78c3-47bd-b166-2058c51a7aa9.png" width=800>
